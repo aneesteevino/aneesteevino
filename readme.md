@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **react,javascript,python**
 
-- 📫 How to reach me **aneeskhanteevino128@gmail.com**
+- 📫 How to reach me **aneeskhanteevino12@gmail.com**
 
 - ⚡ Fun fact **I think i am handsome**
 
