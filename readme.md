@@ -1,16 +1,33 @@
 <img src="https://media.licdn.com/dms/image/v2/D4E16AQF0L04YkeS6bQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1734687217071?e=1740009600&v=beta&t=sc1U5BzC1O5OPuqU2944nHUGVpJXpdSjr7xkYFcXkw4" alt="Background Image" />
 <h1 align="center">Hi 👋, I'm Muhammad Anees</h1>
-<h3 align="center">A passionate AI Scientist from MUET</h3>
+<h3 align="center">AI Agent Developer • Full Stack Engineer • Building Intelligent AI Applications</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aneesteevino&label=Profile%20views&color=0e75b6&style=flat" alt="aneesteevino" /> </p>
 
-- 🌱 I’m currently learning **MACHINE LEARNING**
+- 🚀 AI Agent Developer at **The Deft Crew (TDC)**
+- 🧠 Building **Agentic AI**, **LLM Applications**, **RAG Systems**, and **Autonomous AI Workflows**
+- ⚡ Developing intelligent assistants, AI copilots, and enterprise AI solutions
+- 🔍 Working with **Vector Databases**, **Semantic Search**, **Knowledge Retrieval**, and **Context Engineering**
+- 🏗️ Designing scalable AI architectures for production environments
+- 💻 Full Stack Engineer specializing in **Python** , **React**, **Next.js**, **React Native**, **Node.js**, **Express.js**, **MongoDB**, and **Supabase**
+- 🌱 Currently exploring **Multi-Agent Systems**, **MCP (Model Context Protocol)**, **AI Memory**, **Tool Calling**, **Reasoning Models**, and **AI Orchestration**
+- 💬 Ask me about **LLMs, AI Agents, Agentic AI, RAG, Prompt Engineering, React, Next.js, React Native & Node.js**
 
-- 💬 Ask me about **react,javascript,python**
+# 🧠 AI Expertise
+- 🤖 AI Agents
+- 🧩 Agentic AI
+- 📚 Retrieval-Augmented Generation (RAG)
+- 🧠 Large Language Models (LLMs)
+- 🔗 MCP (Model Context Protocol)
+- 🛠️ Tool Calling
+- 📖 Prompt Engineering
+- 💬 Conversational AI
+- 🗂️ Vector Databases
+- 🔍 Semantic Search
+- 🧠 AI Memory
+- ⚙️ AI Workflow Automation
+- 🚀 AI Product Development
 
-- 📫 How to reach me **aneeskhanteevino12@gmail.com**
-
-- ⚡ Fun fact **I think i am handsome**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
