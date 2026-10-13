@@ -1,27 +1,21 @@
-<!-- GitHub profile | solid terminal palette: #0B1117, #00A878 -->
+<!-- Minimal profile | warm white, slate, teal; subtle 3D-inspired presentation -->
 <div align="center">
 
-```text
-  __  __       _                                         _      _
- |  \/  |_   _| |__   __ _ _ __ ___  _ __ ___   __ _  __| |    / \   _ __   ___  ___  ___
- | |\/| | | | | '_ \ / _` | '_ ` _ \| '_ ` _ \ / _` |/ _` |   / _ \ | '_ \ / _ \/ _ \/ __|
- | |  | | |_| | | | | (_| | | | | | | | | | | | | (_| | (_| |  / ___ \| | | |  __/  __/\__ \
- |_|  |_|\__,_|_| |_|\__,_|_| |_| |_|_| |_| |_|\__,_|\__,_| /_/   \_\_| |_|\___|\___||___/
-```
+<!-- Minimal, spacious layout with soft 3D-inspired portrait treatment -->
 
 # Muhammad Anees
 **AI Engineer | Agentic AI & LLM Systems | AI Automation**
 
-![Typing introduction](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2800&pause=900&color=00A878&center=true&vCenter=true&width=660&lines=Building+LLM+applications+and+agentic+workflows;Engineering+RAG+and+multi-model+AI+services)
+![Typing introduction](https://readme-typing-svg.demolab.com?font=DM+Mono&size=16&duration=3500&pause=1300&color=0F766E&center=true&vCenter=true&width=660&lines=Building+LLM+applications+and+agentic+workflows;Engineering+RAG+and+multi-model+AI+services)
 
 `python • fastapi • agents • rag • automation`
 
 <!-- TODO: upload supplied, coder-themed portrait to assets/Muhammad_Anees_Coder_Portrait.jpg -->
-<img src="assets/Muhammad_Anees_Coder_Portrait.jpg" alt="Muhammad Anees portrait with a dark programming-terminal background; upload image to activate" width="700">
+<img src="assets/Muhammad_Anees_Coder_Portrait.jpg" alt="Muhammad Anees portrait with a clean 3D-inspired coding background" width="440">
 
 </div>
 
-## $ whoami
+## About · `whoami`
 
 ```python
 class AboutMe:
@@ -42,8 +36,8 @@ I build LLM-powered applications, agentic AI workflows, and RAG systems. I integ
 
 ## Resume & Portfolio
 
-[![Portfolio](https://img.shields.io/badge/OPEN_PORTFOLIO-111827?style=flat-square&logo=vercel&logoColor=white)](https://muhammad-anees-portfolio-h48g703po.vercel.app/)
-[![Resume](https://img.shields.io/badge/DOWNLOAD_RESUME-111827?style=flat-square&logo=adobeacrobatreader&logoColor=white)](assets/Muhammad_Anees_Resume.pdf)
+[![Portfolio](https://img.shields.io/badge/OPEN_PORTFOLIO-F1F5F9?style=flat-square&logo=vercel&logoColor=334155)](https://muhammad-anees-portfolio-h48g703po.vercel.app/)
+[![Resume](https://img.shields.io/badge/DOWNLOAD_RESUME-F1F5F9?style=flat-square&logo=adobeacrobatreader&logoColor=334155)](assets/Muhammad_Anees_Resume.pdf)
 
 > **Resume at a glance**  
 > **Role:** AI Engineer, The Deft Crew (Mar 2026 – present)  
@@ -59,33 +53,33 @@ I build LLM-powered applications, agentic AI workflows, and RAG systems. I integ
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-111827?style=flat-square&labelColor=111827&color=00A878) ![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=flat-square&labelColor=111827&color=00A878) ![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=flat-square&labelColor=111827&color=00A878) ![SQL](https://img.shields.io/badge/SQL-111827?style=flat-square&labelColor=111827&color=00A878)
+![Python](https://img.shields.io/badge/Python-F1F5F9?style=flat-square&labelColor=F1F5F9&color=0F766E) ![TypeScript](https://img.shields.io/badge/TypeScript-F1F5F9?style=flat-square&labelColor=F1F5F9&color=0F766E) ![JavaScript](https://img.shields.io/badge/JavaScript-F1F5F9?style=flat-square&labelColor=F1F5F9&color=0F766E) ![SQL](https://img.shields.io/badge/SQL-F1F5F9?style=flat-square&labelColor=F1F5F9&color=0F766E)
 
 **AI & LLM**
 
-![LangChain](https://img.shields.io/badge/LangChain-111827?style=flat-square&labelColor=111827&color=00A878) ![LangGraph](https://img.shields.io/badge/LangGraph-111827?style=flat-square&labelColor=111827&color=00A878) ![CrewAI](https://img.shields.io/badge/CrewAI-111827?style=flat-square&labelColor=111827&color=00A878) ![AutoGen](https://img.shields.io/badge/AutoGen-111827?style=flat-square&labelColor=111827&color=00A878) ![OpenAI](https://img.shields.io/badge/OpenAI-111827?style=flat-square&labelColor=111827&color=00A878) ![Gemini](https://img.shields.io/badge/Gemini-111827?style=flat-square&labelColor=111827&color=00A878) ![Claude (Anthropic)](https://img.shields.io/badge/Claude%20(Anthropic)-111827?style=flat-square&labelColor=111827&color=00A878) ![Groq](https://img.shields.io/badge/Groq-111827?style=flat-square&labelColor=111827&color=00A878) ![Ollama](https://img.shields.io/badge/Ollama-111827?style=flat-square&labelColor=111827&color=00A878)
+![LangChain](https://img.shields.io/badge/LangChain-F1F5F9?style=flat-square&labelColor=F1F5F9&color=0F766E) ![LangGraph](https://img.shields.io/badge/LangGraph-F1F5F9?style=flat-square&labelColor=F1F5F9&color=0F766E) ![CrewAI](https://img.shields.io/badge/CrewAI-F1F5F9?style=flat-square&labelColor=F1F5F9&color=0F766E) ![AutoGen](https://img.shields.io/badge/AutoGen-F1F5F9?style=flat-square&labelColor=F1F5F9&color=0F766E) ![OpenAI](https://img.shields.io/badge/OpenAI-F1F5F9?style=flat-square&labelColor=F1F5F9&color=0F766E) ![Gemini](https://img.shields.io/badge/Gemini-F1F5F9?style=flat-square&labelColor=F1F5F9&color=0F766E) ![Claude (Anthropic)](https://img.shields.io/badge/Claude%20(Anthropic)-F1F5F9?style=flat-square&labelColor=F1F5F9&color=0F766E) ![Groq](https://img.shields.io/badge/Groq-F1F5F9?style=flat-square&labelColor=F1F5F9&color=0F766E) ![Ollama](https://img.shields.io/badge/Ollama-F1F5F9?style=flat-square&labelColor=F1F5F9&color=0F766E)
 
 **AI concepts**
 
-![Prompt & Context Engineering](https://img.shields.io/badge/Prompt%20%26%20Context%20Engineering-111827?style=flat-square&labelColor=111827&color=00A878) ![Agentic AI](https://img.shields.io/badge/Agentic%20AI-111827?style=flat-square&labelColor=111827&color=00A878) ![Multi-Agent Collaboration](https://img.shields.io/badge/Multi%2DAgent%20Collaboration-111827?style=flat-square&labelColor=111827&color=00A878) ![Tool Calling](https://img.shields.io/badge/Tool%20Calling-111827?style=flat-square&labelColor=111827&color=00A878) ![RAG](https://img.shields.io/badge/RAG-111827?style=flat-square&labelColor=111827&color=00A878) ![Embeddings](https://img.shields.io/badge/Embeddings-111827?style=flat-square&labelColor=111827&color=00A878) ![Semantic/Vector Search](https://img.shields.io/badge/Semantic%2FVector%20Search-111827?style=flat-square&labelColor=111827&color=00A878) ![LLM Orchestration](https://img.shields.io/badge/LLM%20Orchestration-111827?style=flat-square&labelColor=111827&color=00A878) ![Recommendation Systems](https://img.shields.io/badge/Recommendation%20Systems-111827?style=flat-square&labelColor=111827&color=00A878)
+![Prompt & Context Engineering](https://img.shields.io/badge/Prompt%20%26%20Context%20Engineering-F1F5F9?style=flat-square&labelColor=F1F5F9&color=0F766E) ![Agentic AI](https://img.shields.io/badge/Agentic%20AI-F1F5F9?style=flat-square&labelColor=F1F5F9&color=0F766E) ![Multi-Agent Collaboration](https://img.shields.io/badge/Multi%2DAgent%20Collaboration-F1F5F9?style=flat-square&labelColor=F1F5F9&color=0F766E) ![Tool Calling](https://img.shields.io/badge/Tool%20Calling-F1F5F9?style=flat-square&labelColor=F1F5F9&color=0F766E) ![RAG](https://img.shields.io/badge/RAG-F1F5F9?style=flat-square&labelColor=F1F5F9&color=0F766E) ![Embeddings](https://img.shields.io/badge/Embeddings-F1F5F9?style=flat-square&labelColor=F1F5F9&color=0F766E) ![Semantic/Vector Search](https://img.shields.io/badge/Semantic%2FVector%20Search-F1F5F9?style=flat-square&labelColor=F1F5F9&color=0F766E) ![LLM Orchestration](https://img.shields.io/badge/LLM%20Orchestration-F1F5F9?style=flat-square&labelColor=F1F5F9&color=0F766E) ![Recommendation Systems](https://img.shields.io/badge/Recommendation%20Systems-F1F5F9?style=flat-square&labelColor=F1F5F9&color=0F766E)
 
 **Automation & Backend**
 
-![n8n](https://img.shields.io/badge/n8n-111827?style=flat-square&labelColor=111827&color=00A878) ![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=flat-square&labelColor=111827&color=00A878) ![Node.js](https://img.shields.io/badge/Node.js-111827?style=flat-square&labelColor=111827&color=00A878) ![Express.js](https://img.shields.io/badge/Express.js-111827?style=flat-square&labelColor=111827&color=00A878) ![REST APIs](https://img.shields.io/badge/REST%20APIs-111827?style=flat-square&labelColor=111827&color=00A878) ![Microservices](https://img.shields.io/badge/Microservices-111827?style=flat-square&labelColor=111827&color=00A878) ![OAuth](https://img.shields.io/badge/OAuth-111827?style=flat-square&labelColor=111827&color=00A878) ![Webhooks](https://img.shields.io/badge/Webhooks-111827?style=flat-square&labelColor=111827&color=00A878)
+![n8n](https://img.shields.io/badge/n8n-F1F5F9?style=flat-square&labelColor=F1F5F9&color=0F766E) ![FastAPI](https://img.shields.io/badge/FastAPI-F1F5F9?style=flat-square&labelColor=F1F5F9&color=0F766E) ![Node.js](https://img.shields.io/badge/Node.js-F1F5F9?style=flat-square&labelColor=F1F5F9&color=0F766E) ![Express.js](https://img.shields.io/badge/Express.js-F1F5F9?style=flat-square&labelColor=F1F5F9&color=0F766E) ![REST APIs](https://img.shields.io/badge/REST%20APIs-F1F5F9?style=flat-square&labelColor=F1F5F9&color=0F766E) ![Microservices](https://img.shields.io/badge/Microservices-F1F5F9?style=flat-square&labelColor=F1F5F9&color=0F766E) ![OAuth](https://img.shields.io/badge/OAuth-F1F5F9?style=flat-square&labelColor=F1F5F9&color=0F766E) ![Webhooks](https://img.shields.io/badge/Webhooks-F1F5F9?style=flat-square&labelColor=F1F5F9&color=0F766E)
 
 **Databases**
 
-![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=flat-square&labelColor=111827&color=00A878) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&labelColor=111827&color=00A878) ![MySQL](https://img.shields.io/badge/MySQL-111827?style=flat-square&labelColor=111827&color=00A878) ![FAISS](https://img.shields.io/badge/FAISS-111827?style=flat-square&labelColor=111827&color=00A878) ![Supabase pgvector](https://img.shields.io/badge/Supabase%20pgvector-111827?style=flat-square&labelColor=111827&color=00A878)
+![MongoDB](https://img.shields.io/badge/MongoDB-F1F5F9?style=flat-square&labelColor=F1F5F9&color=0F766E) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-F1F5F9?style=flat-square&labelColor=F1F5F9&color=0F766E) ![MySQL](https://img.shields.io/badge/MySQL-F1F5F9?style=flat-square&labelColor=F1F5F9&color=0F766E) ![FAISS](https://img.shields.io/badge/FAISS-F1F5F9?style=flat-square&labelColor=F1F5F9&color=0F766E) ![Supabase pgvector](https://img.shields.io/badge/Supabase%20pgvector-F1F5F9?style=flat-square&labelColor=F1F5F9&color=0F766E)
 
 **Frontend & Tools**
 
-![Next.js](https://img.shields.io/badge/Next.js-111827?style=flat-square&labelColor=111827&color=00A878) ![React.js](https://img.shields.io/badge/React.js-111827?style=flat-square&labelColor=111827&color=00A878) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-111827?style=flat-square&labelColor=111827&color=00A878) ![ShadCN UI](https://img.shields.io/badge/ShadCN%20UI-111827?style=flat-square&labelColor=111827&color=00A878) ![Docker](https://img.shields.io/badge/Docker-111827?style=flat-square&labelColor=111827&color=00A878) ![Git/GitHub](https://img.shields.io/badge/Git%2FGitHub-111827?style=flat-square&labelColor=111827&color=00A878) ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-111827?style=flat-square&labelColor=111827&color=00A878) ![VS Code](https://img.shields.io/badge/VS%20Code-111827?style=flat-square&labelColor=111827&color=00A878) ![Windsurf](https://img.shields.io/badge/Windsurf-111827?style=flat-square&labelColor=111827&color=00A878)
+![Next.js](https://img.shields.io/badge/Next.js-F1F5F9?style=flat-square&labelColor=F1F5F9&color=0F766E) ![React.js](https://img.shields.io/badge/React.js-F1F5F9?style=flat-square&labelColor=F1F5F9&color=0F766E) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-F1F5F9?style=flat-square&labelColor=F1F5F9&color=0F766E) ![ShadCN UI](https://img.shields.io/badge/ShadCN%20UI-F1F5F9?style=flat-square&labelColor=F1F5F9&color=0F766E) ![Docker](https://img.shields.io/badge/Docker-F1F5F9?style=flat-square&labelColor=F1F5F9&color=0F766E) ![Git/GitHub](https://img.shields.io/badge/Git%2FGitHub-F1F5F9?style=flat-square&labelColor=F1F5F9&color=0F766E) ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-F1F5F9?style=flat-square&labelColor=F1F5F9&color=0F766E) ![VS Code](https://img.shields.io/badge/VS%20Code-F1F5F9?style=flat-square&labelColor=F1F5F9&color=0F766E) ![Windsurf](https://img.shields.io/badge/Windsurf-F1F5F9?style=flat-square&labelColor=F1F5F9&color=0F766E)
 
 </details>
 
 ## Featured Projects
 
-<details open>
+<details>
 <summary><b>Six selected AI systems</b></summary>
 
 | Project | What it does | Stack | Code |
@@ -112,18 +106,20 @@ I build LLM-powered applications, agentic AI workflows, and RAG systems. I integ
 
 ## GitHub Stats
 
+<sub>Light, uncluttered contribution cards with subtle depth-inspired styling.</sub>
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AneesTeevino&show_icons=true&bg_color=0B1117&title_color=00A878&text_color=E5E7EB&icon_color=00A878&hide_border=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AneesTeevino&show_icons=true&bg_color=F8FAFC&title_color=0F766E&text_color=334155&icon_color=0F766E&hide_border=true">
   <img alt="Muhammad Anees GitHub activity statistics" src="https://github-readme-stats.vercel.app/api?username=AneesTeevino&show_icons=true&theme=default&hide_border=true">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AneesTeevino&layout=compact&bg_color=0B1117&title_color=00A878&text_color=E5E7EB&hide_border=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AneesTeevino&layout=compact&bg_color=F8FAFC&title_color=0F766E&text_color=334155&hide_border=true">
   <img alt="Most used languages in public GitHub repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AneesTeevino&layout=compact&hide_border=true">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=AneesTeevino&background=0B1117&ring=00A878&fire=00A878&currStreakLabel=00A878&sideLabels=E5E7EB&dates=9CA3AF&hide_border=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=AneesTeevino&background=F8FAFC&ring=0F766E&fire=0F766E&currStreakLabel=0F766E&sideLabels=334155&dates=64748B&hide_border=true">
   <img alt="Muhammad Anees GitHub contribution streak" src="https://streak-stats.demolab.com?user=AneesTeevino&hide_border=true">
 </picture>
 
@@ -135,10 +131,10 @@ I build LLM-powered applications, agentic AI workflows, and RAG systems. I integ
 
 ## Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=vercel&logoColor=white)](https://muhammad-anees-portfolio-h48g703po.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/anees-teevino)
-[![Email](https://img.shields.io/badge/Email-111827?style=flat-square&logo=gmail&logoColor=white)](mailto:aneeskhanteevino12@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/AneesTeevino)
+[![Portfolio](https://img.shields.io/badge/Portfolio-F1F5F9?style=flat-square&logo=vercel&logoColor=334155)](https://muhammad-anees-portfolio-h48g703po.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-F1F5F9?style=flat-square&logo=linkedin&logoColor=334155)](https://linkedin.com/in/anees-teevino)
+[![Email](https://img.shields.io/badge/Email-F1F5F9?style=flat-square&logo=gmail&logoColor=334155)](mailto:aneeskhanteevino12@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-F1F5F9?style=flat-square&logo=github&logoColor=334155)](https://github.com/AneesTeevino)
 
 ```js
 // Building agents that ship.
